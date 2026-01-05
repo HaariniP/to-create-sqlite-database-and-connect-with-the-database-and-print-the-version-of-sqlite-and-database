@@ -1,0 +1,1 @@
+# to-create-sqlite-database-and-connect-with-the-database-and-print-the-version-of-sqlite-and-database
